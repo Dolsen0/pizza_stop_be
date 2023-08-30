@@ -1,4 +1,8 @@
 {
+  "general":{
+    "name": "Pizza Stop",
+    "motto": "Stop and have a slice!"
+  },
   "address": {
     "street": "123 Pizza Lane",
     "city": "Boca Raton",

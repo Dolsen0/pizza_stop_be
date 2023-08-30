@@ -23,3 +23,8 @@ app.get("/info", (req, res) => {
 app.listen(PORT, function() {
   console.log(`Server running on http://localhost:${PORT}`);
 });
+
+
+// https://pizza-stop-6b665c7cd62d.herokuapp.com/
+// https://pizza-stop-6b665c7cd62d.herokuapp.com/menu
+// https://pizza-stop-6b665c7cd62d.herokuapp.com/info
