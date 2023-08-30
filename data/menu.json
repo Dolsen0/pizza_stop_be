@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita",
+      "price": 12.99,
+      "description": "Pizza with tomato, mozzarella, and basil."
+    },
+    {
+        "id": 2,
+        "name": "Pepperoni",
+        "price": 14.99,
+        "description": "Pizza with tomato, mozzarella, and pepperoni."
+        },
+    {
+        "id": 3,
+        "name": "Hawaiian",
+        "price": 13.99,
+        "description": "Pizza with tomato, mozzarella, ham, and pineapple."
+        },
+    {
+        "id": 4,
+        "name": "Meat Lovers",
+        "price": 15.99,
+        "description": "Pizza with tomato, mozzarella, ham, pepperoni, and bacon."
+        },
+    {
+        "id": 5,
+        "name": "Vegetarian",
+        "price": 13.99,
+        "description": "Pizza with tomato, mozzarella, mushrooms, onions, and peppers."
+        },
+    {
+        "id": 6,
+        "name": "BBQ Chicken",
+        "price": 14.99,
+        "description": "Pizza with tomato, mozzarella, chicken, and BBQ sauce.",
+        "image": "path_to_image"
+        },
+    {
+        "id": 7,
+        "name": "Buffalo Chicken",
+        "price": 14.99,
+        "description": "Pizza with tomato, mozzarella, chicken, and buffalo sauce."
+        },
+    {
+        "id": 8,
+        "name": "Supreme",
+        "price": 15.99,
+        "description": "Pizza with tomato, mozzarella, ham, pepperoni, bacon, mushrooms, onions, and peppers."
+        },
+    {
+        "id": 9,
+        "name": "White",
+        "price": 12.99,
+        "description": "Pizza with ricotta, and garlic."
+        }
+  ]
+  
